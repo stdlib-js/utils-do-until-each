@@ -286,9 +286,9 @@ doUntilEach( arr, log, predicate );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/do-until-each-right`][@stdlib/utils/do-until-each-right]</span><span class="delimiter">: </span><span class="description">until a test condition is true, invoke a function for each element in a collection, iterating from right to left.</span>
--   <span class="package-name">[`@stdlib/utils/do-while-each`][@stdlib/utils/do-while-each]</span><span class="delimiter">: </span><span class="description">while a test condition is true, invoke a function for each element in a collection.</span>
--   <span class="package-name">[`@stdlib/utils/until-each`][@stdlib/utils/until-each]</span><span class="delimiter">: </span><span class="description">until a test condition is true, invoke a function for each element in a collection.</span>
+-   <span class="package-name">[`@stdlib/utils-do-until-each-right`][@stdlib/utils/do-until-each-right]</span><span class="delimiter">: </span><span class="description">until a test condition is true, invoke a function for each element in a collection, iterating from right to left.</span>
+-   <span class="package-name">[`@stdlib/utils-do-while-each`][@stdlib/utils/do-while-each]</span><span class="delimiter">: </span><span class="description">while a test condition is true, invoke a function for each element in a collection.</span>
+-   <span class="package-name">[`@stdlib/utils-until-each`][@stdlib/utils/until-each]</span><span class="delimiter">: </span><span class="description">until a test condition is true, invoke a function for each element in a collection.</span>
 
 </section>
 
