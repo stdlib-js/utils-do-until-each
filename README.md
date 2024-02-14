@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import doUntilEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-until-each@deno/mod.js';
+import doUntilEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-until-each@v0.2.0-deno/mod.js';
 ```
 
 #### doUntilEach( collection, fcn, predicate\[, thisArg ] )
@@ -229,7 +229,7 @@ var mean = context.sum / context.count;
 var isEven = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even' ).isPrimitive;
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import doUntilEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-until-each@deno/mod.js';
+import doUntilEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-until-each@v0.2.0-deno/mod.js';
 
 function predicate( value ) {
     return ( value !== value );
